@@ -13,3 +13,5 @@ This repository includes a simple bucket-catching-drop-game and links to the tut
 # How to expand this simple game with more functionality:
   https://github.com/libgdx/libgdx/wiki/Extending-the-simple-game
   
+# Current issue with android studio and LibGDX:
+  https://stackoverflow.com/questions/46975883/error2-0-plugin-with-id-jetty-not-found
